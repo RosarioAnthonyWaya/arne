@@ -1,0 +1,51 @@
+# ======================================================
+#  ARNE Global – Jekyll Site Configuration
+# ======================================================
+
+title: "ARNE Global"
+name: "ARNE Global"
+description: "We help businesses grow through creativity and technology."
+lang: "es"  # Spanish default
+url: "https://rosarioanthonywaya.github.io"  # CHANGE THIS
+baseurl: "https://rosarioanthonywaya.github.io"  # "" if it's a personal site (username.github.io)
+
+# ======================================================
+#  Meta Defaults (for Open Graph / Twitter)
+# ======================================================
+og_title: "ARNE Digital – Creative, Marketing & IT Solutions for Equatorial Guinea Businesses"
+og_description: "Branding, web design, marketing, and tech support for local and regional companies."
+og_image: "/assets/arne-digital-og.jpg"
+twitter_card: "summary_large_image"
+twitter_title: "ARNE Digital | Design, Marketing & Technology for Businesses in Equatorial Guinea"
+twitter_description: "Helping local and regional companies grow with creative design, digital marketing, and technology services."
+twitter_image: "/assets/arne-digital-og.jpg"
+
+# ======================================================
+#  Build Settings
+# ======================================================
+markdown: kramdown
+theme: null
+permalink: pretty
+timezone: Africa/Malabo
+
+# ======================================================
+#  Plugins (Safe for GitHub Pages)
+# ======================================================
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ======================================================
+#  Exclusions (Don't publish these files)
+# ======================================================
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# ======================================================
+#  Collections (optional later)
+# ======================================================
+# collections:
+#   posts:
+#     output: true
