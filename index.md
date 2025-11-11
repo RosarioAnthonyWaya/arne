@@ -4,7 +4,7 @@ title: Home
 description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en Guinea Ecuatorial"
 ---
 
-    <section class="section hero-home-b-section">
+<section class="section hero-home-b-section">
         <div class="w-layout-blockcontainer main-container w-container">
             <div data-w-id="5f1317bd-f431-ef0e-ff22-7bd7163ff1ac" style="filter: blur(0px); opacity: 1;" class="headline-home-b">
                 <div data-wf--tag--variant="base" class="label-master">
@@ -56,7 +56,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                 [data-wf-bgvideo-fallback-img] {
                                     display: none;
                                 }
-
                                 @media (prefers-reduced-motion: reduce) {
                                     [data-wf-bgvideo-fallback-img] {
                                         position: absolute;
@@ -153,8 +152,8 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
     </section>
 
 
-    <!------------------------------BRANDS WE WORKED WITH------------------------------------------------------------------------------------->
-    <section class="section home-a-logo-section">
+<!------------------------------BRANDS WE WORKED WITH------------------------------------------------------------------------------------->
+ <section class="section home-a-logo-section">
     <div class="w-layout-blockcontainer main-container w-container">
         <div class="w-row">
             <div class="w-col w-col-6"></div>
@@ -475,7 +474,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                     <div button-text="" class="button-text w-variant-c69fc54f-c8c7-ba16-cab1-d159723763a9" aria-label="Get Template">
                                       <div class="text-medium">I need this</div>
                       
-                                    </div>
+</div>
                                 </div>
                                 <div class="button-icon-wrap right">
                                     <div button-icon-right="" class="icon-button w-embed">
@@ -506,7 +505,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                     <div button-text="" class="button-text w-variant-c69fc54f-c8c7-ba16-cab1-d159723763a9" aria-label="Get Template" aria-hidden="true">
                                         <div class="text-medium">Get d template</div>
                       
-                                    </div>
+ </div>
                                 </div>
                                 <div class="button-icon-wrap right" aria-hidden="true">
                                     <div button-icon-right="" class="icon-button w-embed" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 16 16" fill="none" aria-hidden="true">
@@ -607,16 +606,16 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                 <div class="w-slider-dot" data-wf-ignore="" aria-label="Show slide 3 of 3" aria-pressed="false" role="button" tabindex="-1" style="margin-left: 3px; margin-right: 3px;">3</div>
                 <div class="w-slider-dot" data-wf-ignore="" aria-label="Show slide 3 of 4" aria-pressed="false" role="button" tabindex="-1" style="margin-left: 3px; margin-right: 3px;">4</div>
          
-            </div>
+</div>
         </div>
     </div>
 </section>
 
-    <!---------------------------------------------------OUR PROCESS--------------------------------------------------->
-    <section class="section timeline-section">
+<!---------------------------------------------------OUR PROCESS--------------------------------------------------->
+<section class="section timeline-section">
         <div class="w-layout-blockcontainer main-container w-container">
             
-            <div data-w-id="71997216-721d-6fff-f4cf-fb935c109022" style="filter: blur(12px); opacity: 0;" class="headline-timeline">
+ <div data-w-id="71997216-721d-6fff-f4cf-fb935c109022" style="filter: blur(12px); opacity: 0;" class="headline-timeline">
                 <h2 class="text-h4 no-margins">
                     ARNE Global supports small and medium-sized companies in Equatorial Guinea with design, marketing, 
                     and IT solutions that make work easier and brands stronger.</h2>
@@ -684,7 +683,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
 
 
 <!-------------------------------------------------------------SERVICES 3-BOXES-------------------------------------------------------->
-    <section class="section wiw-section">
+<section class="section wiw-section">
         <div class="w-layout-blockcontainer main-container w-container">
             <div data-w-id="ebaf41bb-b631-e76e-90fd-958dd3ff843a" style="filter: blur(12px); opacity: 0;" class="headline-wiw">
                 <div data-wf--tag--variant="base" class="label-master">
@@ -726,7 +725,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
     </section>
 
 <!-------------------------------------------------------------CASE STUDY-------------------------------------------------------->
-    <section class="section home-b-case-section">
+ <section class="section home-b-case-section">
         <div class="w-layout-blockcontainer main-container w-container">
             <div data-w-id="aa6b58d9-7846-2f74-bafe-1ddad42cd1ae" style="filter: blur(12px); opacity: 0;" class="case-large w-dyn-list">
                 <div role="list" class="w-dyn-items">
@@ -817,7 +816,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                                 display: none;
                                             }
 
-                                            @media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
                                                     z-index: -100;
@@ -865,7 +864,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                                 display: none;
                                             }
 
-                                            @media (prefers-reduced-motion: reduce) {
+@media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
                                                     z-index: -100;
@@ -912,8 +911,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
-                                            @media (prefers-reduced-motion: reduce) {
+  @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
                                                     z-index: -100;
@@ -960,7 +958,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
                                             @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
@@ -1008,7 +1005,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
                                             @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
@@ -1056,7 +1052,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
                                             @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
@@ -1104,7 +1099,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
                                             @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
@@ -1152,7 +1146,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
                                             @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
@@ -1200,7 +1193,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
                                             @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
@@ -1248,7 +1240,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                                             [data-wf-bgvideo-fallback-img] {
                                                 display: none;
                                             }
-
                                             @media (prefers-reduced-motion: reduce) {
                                                 [data-wf-bgvideo-fallback-img] {
                                                     position: absolute;
@@ -1316,7 +1307,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
  <!-------------------------------------------------------------STATISTICS-------------------------------------------------------->
  
 <!--
-    <section class="section home-b-animated-section">
+ <section class="section home-b-animated-section">
         <div class="w-layout-blockcontainer main-container w-container">
             <div data-w-id="b1e4581c-7d3c-19cf-ec0d-4cf8aa89e0bd" style="filter: blur(12px); opacity: 0;" class="headline-home-b-stats">
                 <div data-wf--tag--variant="base" class="label-master">
@@ -1367,7 +1358,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
  <!-------------------------------------------------------------STATISTICS II-------------------------------------------------------->
  
 
-    <section class="section stats-section">
+  <section class="section stats-section">
     <div data-poster-url="https://cdn.prod.website-files.com/68d7c06dc68ea0c551b91d3d%2F68dadb4b5be7b586760f612a_Elegant%20Portrait%20Woman-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/68d7c06dc68ea0c551b91d3d%2F68dadb4b5be7b586760f612a_Elegant%20Portrait%20Woman-transcode.mp4,https://cdn.prod.website-files.com/68d7c06dc68ea0c551b91d3d%2F68dadb4b5be7b586760f612a_Elegant%20Portrait%20Woman-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="video-stats w-background-video w-background-video-atom"><video id="602f3dd2-4189-5e2f-0c6d-dfd7d03d95d9-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/68d7c06dc68ea0c551b91d3d%2F68dadb4b5be7b586760f612a_Elegant%20Portrait%20Woman-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
             <source src="https://cdn.prod.website-files.com/68d7c06dc68ea0c551b91d3d%2F68dadb4b5be7b586760f612a_Elegant%20Portrait%20Woman-transcode.mp4" data-wf-ignore="true">
             <source src="https://cdn.prod.website-files.com/68d7c06dc68ea0c551b91d3d%2F68dadb4b5be7b586760f612a_Elegant%20Portrait%20Woman-transcode.webm" data-wf-ignore="true">
@@ -1405,7 +1396,6 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
                 [data-wf-bgvideo-fallback-img] {
                     display: none;
                 }
-
                 @media (prefers-reduced-motion: reduce) {
                     [data-wf-bgvideo-fallback-img] {
                         position: absolute;
@@ -1460,7 +1450,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
 </section>
 
 <!--------------------------------------------BLOG POSTS----------------------------------------------------------------->
-    <section class="section blog-home-b-section">
+<section class="section blog-home-b-section">
         <div class="w-layout-blockcontainer main-container w-container">
             <div data-w-id="6368cc68-3f08-94cc-0592-0faa370729d1" style="filter: blur(12px); opacity: 0;" class="headline-blog-home-b">
                 <div data-wf--tag--variant="depth" class="label-master w-variant-3dcbab84-0b89-15c0-0305-ed72757207a9">
@@ -1525,7 +1515,7 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
 
 
     <!-------------------------------------------CTA 02----------------------------------------------------------------->
-    <section class="section cta-c-section">
+ <section class="section cta-c-section">
         <div class="w-layout-blockcontainer main-container w-container">
             <div data-w-id="04ef9d40-fcad-5b09-85c6-64e1d7ec23d8" class="master-cta-c" style="filter: blur(12px); opacity: 0;">
                 <div class="cta-c-columns w-row">
@@ -1865,4 +1855,3 @@ description: "ARNE Digital – Diseño, Marketing y Tecnología para Empresas en
         </div>
         <div class="overlay-blur"></div>
     </section>
-
