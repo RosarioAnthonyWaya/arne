@@ -6,16 +6,8 @@
   <body class="{{ page.body_class }}">
     {% include header.html %}
 
-    <main id="main-content" role="main">
-      {{ content }}
-    </main>
+    {{ content }} <!-- no <main>; Webflow expects sections directly under <body> -->
 
     {% include footer.html %}
-
-    {% if page.extra_js %}
-      {% for src in page.extra_js %}
-        <script src="{{ src | relative_url }}" defer></script>
-      {% endfor %}
-    {% endif %}
   </body>
 </html>
