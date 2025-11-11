@@ -6,8 +6,9 @@ title: "ARNE Global"
 name: "ARNE Global"
 description: "We help businesses grow through creativity and technology."
 lang: "es"  # Spanish default
-url: "https://rosarioanthonywaya.github.io"  # CHANGE THIS
-baseurl: "https://rosarioanthonywaya.github.io"  # "" if it's a personal site (username.github.io)
+url: "https://rosarioanthonywaya.github.io"
+baseurl: "/arne"
+
 
 # ======================================================
 #  Meta Defaults (for Open Graph / Twitter)
